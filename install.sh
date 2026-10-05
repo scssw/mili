@@ -51,7 +51,7 @@ echo -e "检测到系统: ${GREEN}${PRETTY_NAME:-unknown}${PLAIN}"
 # 3. Configure GitHub Repository URL
 # Default to the repository
 DEFAULT_USER="scssw"
-DEFAULT_REPO="aimili-vpngate"
+DEFAULT_REPO="mili"
 
 # Allow custom repository override via command line arguments
 GITHUB_USER="${1:-${DEFAULT_USER}}"
